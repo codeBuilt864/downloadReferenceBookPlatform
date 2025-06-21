@@ -1,0 +1,84 @@
+[
+
+  {
+    "id":"66b314548b011e16d08da838",
+    "name": "Data Science",
+    "author": "Russell Jurney",
+    "imageUrl": "https://www.jungle.lk/wp-content/uploads/2020/05/Python-Data-Science-Handbook.jpg",
+    "pdfURL": "https://drive.google.com/uc?export=download&id=1TcDry8ekIVhy1VhcXt_zBvQXxzB70sCH",
+    "__v": 0
+  },
+  {
+    "id": "66f81461d6946667af4e25a5",
+    "name": "Precalculus with Limits _ Ron Larson_ Robert P_ Hostetler",
+    "author": " Robert P_ Hostetler",
+    "imageUrl": "https://th.bing.com/th/id/OIP.CJlQhNJxqoMAlwm88oy2JwAAAA?rs=1&pid=ImgDetMain",
+    "pdfURL": "https://drive.google.com/uc?export=download&id=1Y_phMrYt-J80uMyzW8KPvv2zsjCiurTu",
+    "__v": 0
+  },
+  {
+    "id": "66f817b1425921c64be30669",
+    "name": "Early History of Multimedia",
+    "author": "No Name",
+    "imageUrl": "https://image.slidesharecdn.com/historyofmultimedia-110925012910-phpapp01/85/History-of-multimedia-1-320.jpg",
+    "pdfURL": "https://drive.google.com/uc?export=download&id=1_R6xf9-3DrSMiVLaNTs2nrYozWwPpvwQ",
+    "__v": 0
+  },
+  {
+    "id": "66fbd69affff6bbdb6275293",
+    "name": "Inorganic Chemistry in Aqueous Solution",
+    "author": "Jack Barret",
+    "imageUrl": "https://th.bing.com/th/id/OIP._yfz2xbqjSCgRvzDXYkX1AAAAA?w=164&h=229&c=7&r=0&o=5&dpr=1.2&pid=1.7",
+    "pdfURL": "https://drive.google.com/uc?export=download&id=1oIVUJ6d_DrkFEfQSlnhDoux4HvBA2ade",
+    "__v": 0
+  },
+  {
+    "id": "66fbd5c4ffff6bbdb627528f",
+    "name": "Seeds Physiology of Development, Germination and Dormancy, 3rd Edition ",
+    "author": "Mikhael black",
+    "imageUrl": "https://th.bing.com/th/id/OIP.-26EzdAUnrKGtdGp7EWl6AAAAA?w=117&h=180&c=7&r=0&o=5&dpr=1.2&pid=1.7",
+    "pdfURL": "https://drive.google.com/uc?export=download&id=1P2-PFpgKYepXsx8ey6TNEEnF4jUNG-Np",
+    "__v": 0
+  },
+  {
+    "id": "66fbd4dbffff6bbdb627528b",
+    "name": "Plant Physiology Fifth Edition",
+    "author": "Linconz taiz",
+    "imageUrl": "https://th.bing.com/th/id/OIP.yTy4wOLdVbTEwFohDENzVwAAAA?w=190&h=242&c=7&r=0&o=5&dpr=1.2&pid=1.7",
+    "pdfURL": "https://drive.google.com/uc?export=download&id=1P2-PFpgKYepXsx8ey6TNEEnF4jUNG-Np",
+    "__v": 0
+  },
+  {
+    "id": "66fbd41bffff6bbdb6275287",
+    "name": "Vogel's Textbook Practical Organic Chemistry",
+    "author": "Vogel",
+    "imageUrl": "https://th.bing.com/th/id/OIP.CFQW7S5UROOmEpjYQLGjbwHaJB?w=190&h=231&c=7&r=0&o=5&dpr=1.2&pid=1.7",
+    "pdfURL": "https://drive.google.com/uc?export=download&id=1tFSAF0uD4pufjJPPGYnkgTcKfq6mBKJY",
+    "__v": 0
+  },
+  {
+    "id": "66fcc8058d418ea58baa7d01",
+    "name": "LANGE'S HANDBOOK  OF  CHEMISTRY",
+    "author": "John A. Dean",
+    "imageUrl": "https://th.bing.com/th/id/OIP.gC3TMsm-yVoGSZu5PSQyhwAAAA?w=136&h=181&c=7&r=0&o=5&dpr=1.2&pid=1.7",
+    "pdfURL": "https://drive.google.com/uc?export=download&id=1ZpMY1b3M8AbVrXvMzK-VsfE24n93WXVt",
+    "__v": 0
+  },
+  {
+    "id": "66fcccecd30767da758919b2",
+    "name": "Marketing Travel and Tourism",
+    "author": "Victor T.C. Middlon",
+    "imageUrl": "https://th.bing.com/th/id/OIP.E8Zd4yAquIQA6YIssfhudQHaKm?w=190&h=273&c=7&r=0&o=5&dpr=1.2&pid=1.7",
+    "pdfURL": "https://drive.google.com/uc?export=download&id=11Emx_6ymuveavlW1JGPflU4_gUsQyFGQ",
+    "__v": 0
+  },
+  {
+    "id": "66fccbf3d30767da758919ae",
+    "name": "Event Marketing",
+    "author": "Leonard H. Hoyle,",
+    "imageUrl": "https://th.bing.com/th/id/OIP.s7noAlIpgBHXN8zk7xArawHaHa?w=202&h=201&c=7&r=0&o=5&dpr=1.2&pid=1.7",
+    "pdfURL": "https://drive.google.com/uc?export=download&id=1utRN6790pRzVIYox3xUObHbBjSLZ-Naa",
+    "__v": 0
+  }
+ 
+]
